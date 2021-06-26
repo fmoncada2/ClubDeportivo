@@ -1,0 +1,18 @@
+{
+    "Planes":[
+        {"id": 1, "Código": "001", "Plan": "Membresía Natación", "Plaza": "3 meses", "Anualidad": "$60"},
+        {"id": 2, "Código": "002", "Plan": "Membresía Futbol", "Plaza": "6 meses", "Anualidad": "$100"},
+        {"id": 3, "Código": "003", "Plan": "Membresía Baile", "Plaza": "1 mes", "Anualidad": "$30"},
+        {"id": 4, "Código": "004", "Plan": "Membresía Paracaidismo", "Plaza": "3 meses", "Anualidad": "$150"},
+        {"id": 5, "Código": "005", "Plan": "Membresía Tenis", "Plaza": "1 año", "Anualidad": "$120"}
+    ],
+
+    "Detalles":[
+        {"id": 1, "Código": "001", "Plan": "Membresía Natación", "Plaza": "3 meses", "Anualidad": "$60", "Beneficios": "Se mirarían los beneficios del Plan", "Restricciones":"Se mirarian restricciones del Plan", "Cometarios":"Comentarios de nuestros clientes"},
+        {"id": 2, "Código": "002", "Plan": "Membresía Futbol", "Plaza": "6 meses", "Anualidad": "$100", "Beneficios": "Se mirarían los beneficios del Plan", "Restricciones":"Se mirarian restricciones del Plan", "Cometarios":"Comentarios de nuestros clientes"},
+        {"id": 3, "Código": "003", "Plan": "Membresía Baile", "Plaza": "1 mes", "Anualidad": "$30", "Beneficios": "Se mirarían los beneficios del Plan", "Restricciones":"Se mirarian restricciones del Plan", "Cometarios":"Comentarios de nuestros clientes"},
+        {"id": 4, "Código": "004", "Plan": "Membresía Paracaidismo", "Plaza": "3 meses", "Anualidad": "$150", "Beneficios": "Se mirarían los beneficios del Plan", "Restricciones":"Se mirarian restricciones del Plan", "Cometarios":"Comentarios de nuestros clientes"},
+        {"id": 5, "Código": "005", "Plan": "Membresía Tenis", "Plaza": "1 año", "Anualidad": "$120", "Beneficios": "Se mirarían los beneficios del Plan", "Restricciones":"Se mirarian restricciones del Plan", "Cometarios":"Comentarios de nuestros clientes"}
+    ]
+
+}
